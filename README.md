@@ -13,5 +13,5 @@ pip3 install -e ".[dev]"
 ## Run
 
 ```bash
-COHERE_API_KEY=yadayadayada fortun8`
+COHERE_API_KEY=yadayadayada fortun8
 ```
